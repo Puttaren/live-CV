@@ -8,7 +8,9 @@
 - **Kort bio:** Systemprogrammerare i grunden som under de senaste 30 åren arbetat som översättare och skribent. Genomgår nu en planerad kursändring mot Business Intelligence med fokus på att destillera komplex information till tydliga, datadrivna budskap.
 - **Kontaktlänkar:**
   - [LinkedIn](https://www.linkedin.com/in/michael-brostrom/)
-  - [E-post](mailto:din.mail@exempel.se) ## Utbildning
+  - [E-post](mailto:michael@intertec.se) 
+  
+## Utbildning
 - **Skola:** YH Akademin 
 - **Program:** BI Analyst med AI-kompetens (400 YH-poäng) 
 - **Fokusområden:** Alla former av databearbetning och visualisering, från backend (ETL/SQL) till frontend (Power BI/Dashboarding).
@@ -38,7 +40,7 @@
 - **BI-verktyg & Visualisering:** 15%
 - **Molnlösningar:** 5%
 - **Ledarskap & Projektmetodik:** 5%
-*Min utbildning på Systemprogrammerarlinjen vid Högskolan i Skövde) har en hel del överlappning, men var några år sedan* 
+*Min 30 år gamla utbildning på Systemprogrammerarlinjen vid Högskolan i Skövde har en hel del överlappning, men var ju några år sedan* 
 ## Erfarenheter & Projekt
 1. **LIA – Mål:** Söker möjligheter att bidra i BI-team med allt från datatvätt och ETL till dashboard-prototyper och kommunikativ visualisering.
 2. **Copywriter & Översättare:** Lång erfarenhet av kravfångst från beställare och att omvandla komplex data till mätbar effekt för specifika målgrupper.
