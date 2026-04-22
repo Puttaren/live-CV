@@ -43,7 +43,7 @@
 
 ## Systemprogrammerarlinjen
 - **Skola:** Högskolan i Skövde 1988–1991
-- **Fokusområden:** En hel del överlappning med BI-utbildningen, bl.a. SQL, mycket databasmetodik, diverse programmering, etc.*
+- **Fokusområden:** En hel del överlappning med BI-utbildningen, bl.a. SQL, mycket databasmetodik, diverse programmering, etc.
 
 ## Projekt
 1. **AI-optimering för Smart Hem (IoT & AI):** Ett avancerat projekt som kombinerar realtidsdata från en egen solcellsanläggning med externa datakällor som väderprognoser och spotpriser (Day-ahead) från elmarknaden (SE4). Genom att använda Machine Learning (HistGBR) för prediktion och linjärprogrammering (PuLP) för optimering, skapades en intelligent styrningsmodell för att minimera hushållets elkostnader. Projektet gav djupa insikter i systemintegration och visade på hur smart mjukvarustyrning kan påverka kalkylen för investeringar i hårdvara som hushållsbatterier. [Läs mer här](https://intertec.se/elprojekt_presentation.html). 
