@@ -45,7 +45,7 @@
 - **Fokusområden:** En hel del överlappning med BI-utbildningen, bl.a. SQL, mycket databasmetodik, diverse programmering, etc.*
 
 ## Erfarenheter & Projekt
-1. **LIA – Mål:** Söker möjligheter att bidra i BI-team med allt från datatvätt och ETL till dashboard-prototyper och kommunikativ visualisering.
+1. **LIA-praktik** Ett flertal Business Intelligence-uppgifter på Intersolia i Halmstad.
 2. **Copywriter & Översättare:** Lång erfarenhet av kravfångst från beställare och att omvandla komplex data till mätbar effekt för specifika målgrupper.
 3. **Projektledare Microsoft WPGI:** Ansvarade för lokalisering av Office-paketet för Mac, vilket inkluderade hantering av komplexa ordlistor och style guides.
 
