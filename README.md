@@ -10,9 +10,8 @@
   - [LinkedIn](https://www.linkedin.com/in/michael-brostrom/)
   - [E-post](mailto:michael@intertec.se) 
   
-## Utbildning
-- **Skola:** YH Akademin 
-- **Program:** BI Analyst med AI-kompetens (400 YH-poäng) 
+## BI Analyst med AI-kompetens (400 YH-poäng)
+- **Skola:** YH Akademin  
 - **Fokusområden:** Alla former av databearbetning och visualisering, från backend (ETL/SQL) till frontend (Power BI/Dashboarding).
 
 ## Kunskapsnivåer (1–5)
@@ -40,7 +39,11 @@
 - **BI-verktyg & Visualisering:** 15%
 - **Molnlösningar:** 5%
 - **Ledarskap & Projektmetodik:** 5%
-*Min 30 år gamla utbildning på Systemprogrammerarlinjen vid Högskolan i Skövde har en hel del överlappning, men var ju några år sedan* 
+
+## Systemprogrammerarlinjen
+- **Skola:** Högskolan i Skövde 1988–1991
+- **Fokusområden:** En hel del överlappning med BI-utbildningen, bl.a. SQL, mycket databasmetodik, diverse programmering, etc.*
+ 
 ## Erfarenheter & Projekt
 1. **LIA – Mål:** Söker möjligheter att bidra i BI-team med allt från datatvätt och ETL till dashboard-prototyper och kommunikativ visualisering.
 2. **Copywriter & Översättare:** Lång erfarenhet av kravfångst från beställare och att omvandla komplex data till mätbar effekt för specifika målgrupper.
